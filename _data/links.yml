@@ -1,5 +1,19 @@
 # links
-- url: "#"
-  description: Springfield Poker Club
-- url: "#"
-  description: Springfield Donut Eater's User Group
+- url: "https://engineering.skroutz.gr/blog/smashingconf-2016/"
+  description: |
+    Smashing Conference Barcelona, 2016
+
+- url: "https://engineering.skroutz.gr/blog/Skroutz-redesign-how-we-designed-and-implemented-our-own-Design-System/"
+  description: |
+    How we designed and implemented oir own Design System
+
+- url: "https://engineering.skroutz.gr/blog/2015-an-amazing-front-end-year-in-skroutz/"
+  description: |
+    2015: an amazing Front-End year in Skroutz
+
+- url: "https://engineering.skroutz.gr/blog/cssday-2013-amsterdam/"
+  description: |
+    CSS Day Amsterdam, 2013
+
+- url: "https://engineering.skroutz.gr/blog/euruko2013-design/"
+  description: Euruko 2013 Design

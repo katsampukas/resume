@@ -13,9 +13,19 @@ resume_avatar:                  "true"
 resume_name:                    "Giorgos Katsiampas"
 resume_title:                   "Front-end Developer. SEO hacker."
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+  "katsampukas@gmail.com"
+resume_header_contact_info: "Arachova Viotias, Greece | 32004 | katsampukas@gmail.com"
+resume_header_intro: |
+  <p>
+    I am Senior Front-End developer at <a href="https://skroutz.gr" target="_blank">Skroutz.gr</a>.
+    To the time being, we have complete 2 major redesigns in the period 2011-2016,
+    we have develop an internal CSS framework, and we have expose the application
+    in Turkey and United Kingdom!<br>
+    HTML, CSS / SCSS master, JS, Ruby / Ruby on Rails sufficient.
+    I love to build web apps using cutting edge technologies.<br>
+    Studied Environmentalist, MSc in Water Resources Technologies,
+    I followed my dream to build things in a space that everyone will be able to see.
+  </p>
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -36,13 +46,13 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/katsampukas"
+  resume_twitter_url:           "http://twitter.com/katsampu"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/giorgos-katsiampas-8a833911a/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://katsampu.com"
 resume_print_social_links:      true
 
 # Design settings

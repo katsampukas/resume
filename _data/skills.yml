@@ -5,7 +5,7 @@
       Semantic HTML, CSS / SCSS, UX, Usability Testing, A/B Testing,
       Rendering & Painting Performance
     </p>
-    <p><strong>light:</strong>
+    <p><strong>normal:</strong>
       Javascript, JS libraries (i.e. JQuery)
     </p>
 
@@ -15,6 +15,6 @@
 
 - skill: Back-End development
   description: |
-    <p><strong>light:</strong>
+    <p><strong>normal:</strong>
       Ruby / RoR, light Back-End Modules, PHP / Wordpress
     </p>

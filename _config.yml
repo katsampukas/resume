@@ -11,20 +11,31 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Giorgos Katsiampas"
-resume_title:                   "Front-end Developer. SEO hacker."
+resume_title:                   "Manager. Front-end Engineer. SEO Expert."
 resume_contact_email:
   "katsampukas@gmail.com"
 resume_header_contact_info: "Arachova Viotias, Greece | 32004 | katsampukas@gmail.com"
 resume_header_intro: |
   <p>
-    I am Senior Front-End developer at <a href="https://skroutz.gr" target="_blank">Skroutz.gr</a>.
-    To the time being, we have complete 2 major redesigns in the period 2011-2016,
-    we have develop an internal CSS framework, and we have expose the application
-    in Turkey and United Kingdom!<br>
-    HTML, CSS / SCSS master, JS, Ruby / Ruby on Rails sufficient.
-    I love to build web apps using cutting edge technologies.<br>
-    Studied Environmentalist, MSc in Water Resources Technologies,
-    I followed my dream to build things in a space that everyone will be able to see.
+    I am Head of Growth / SEO Team at <a href="https://skroutz.gr" target="_blank">Skroutz.gr</a>, the leading price comparison engine and marketplace in Greece.
+    <br><br>
+    Regarding SEO, I oversee and enhance the technical implementation of features and I monitor SEO KPIs (like organic search performance, crawl budget, etc.).
+    <br>
+    Regarding growth, besides management, I overview and drive fast-pace growth experiments and Merchandising.
+    <br><br>
+    Since I started as a front-end engineer, to the time being, we have completed 2 major redesigns in the period 2011-2020, we have developed an internal CSS (SCSS) framework, and we have exposed Skroutz.gr in Turkey and the United Kingdom!
+    <br><br>
+    I love to build web apps using cutting edge technologies, nevertheless now I am serving it from a managerial position.
+    <br><br>
+    HTML, CSS / SCSS master, Javascript, user experience, design principles, and web usability-accessibility standards.
+    <br>
+    SEO expert.
+    <br>
+    Strong expertise in building large scale web applications.
+    <br>
+    Long exposure in Ruby and Ruby on Rails environment and applications.
+    <br><br>
+    Studied Environmental Management, MSc in Water Resources Technologies, I followed my dream to build things in a space that everyone is able to see.
   </p>
 
 # use "yes" to display the email contact button,

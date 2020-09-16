@@ -1,20 +1,19 @@
 # Skills
-- skill: Front-End development
-  description: |
-    <p><strong>strong:</strong>
-      Semantic HTML, CSS / SCSS, UX, Usability Testing, A/B Testing,
-      Rendering & Painting Performance
-    </p>
-    <p><strong>normal:</strong>
-      Javascript, JS libraries (i.e. JQuery)
-    </p>
-
 - skill: Growth / SEO
   description: |
     OnPage SEO, OffPage SEO, Technical SEO
 
+- skill: Front-End development
+  description: |
+    <p><strong>strong:</strong>
+      Semantic HTML, CSS / SCSS, Javascript, UX, Usability Testing, A/B Testing, Rendering & Painting Performance
+    </p>
+    <p><strong>normal:</strong>
+      new JS frameworks (i.e. React)
+    </p>
+
 - skill: Back-End development
   description: |
-    <p><strong>normal:</strong>
+    <p><strong>light:</strong>
       Ruby / RoR, light Back-End Modules, PHP / Wordpress
     </p>

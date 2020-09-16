@@ -1,19 +1,19 @@
 # Jobs
 - company: Skroutz S.A.
   position: Front-End developer
-  duration: May, 2011 &mdash; Present
+  duration: May 2011 &mdash; Present
   summary: |
-    Front-end development and management / overview of the front-end
-    code across other front-end teams.<br>
+    Front-end development. SEO. Μanagement of Growth / SEO team.<br>
     <ul class="resume-item-list">
-      <li>2 major redesigns in the period 2011-2017</li>
+      <li>SEO overview and development (features, tools)</li>
+      <li>2 major redesigns in the period 2011-2020</li>
       <li>Development of an internal CSS framework</li>
       <li>Expose of the application in Turkey and United Kingdom</li>
       <li>Front end development of skroutz.gr (Greece), alve.com (Turkey) and scrooge.co.uk (UK)</li>
-      <li>Overview and test team's front-end coding</li>
-      <li>Write semantic HTML and CSS/Sass</li>
-      <li>Write Javascript/JQuery modules </li>
-      <li>Write light Back-End modules</li>
+      <li>Overview and test front-end coding</li>
+      <li>Write semantic HTML and CSS/Scss</li>
+      <li>Write Javascript modules</li>
+      <li>Write light Back-End modules (Ruby, Ruby on Rails)</li>
       <li>Tackle UX problems and test web application</li>
       <li>Conduct usability studies and a/b tests</li>
     </ul>
